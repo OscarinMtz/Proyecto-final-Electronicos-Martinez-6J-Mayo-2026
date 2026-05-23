@@ -1,28 +1,36 @@
 ## aplicacion Web/Android Electronicos 
+
 ## Registro
 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/bcecf1c5-818c-4aac-9702-1f38ec50b1eb" />
 <img width="1365" height="638" alt="image" src="https://github.com/user-attachments/assets/66dc6644-bccb-470b-bc7b-b7651cc4601f" />
+
 ## Catalogo
 <img width="713" height="600" alt="image" src="https://github.com/user-attachments/assets/686fc157-f2f8-4e54-b5db-328028fafadf" />
 <img width="710" height="603" alt="image" src="https://github.com/user-attachments/assets/9566687c-1eba-43c9-ad57-4da7e8823239" />
 <img width="713" height="607" alt="image" src="https://github.com/user-attachments/assets/d57f04f0-7479-45cf-8a40-39a872844685" />
-## Peoximos 
+
+## Proximos 
 <img width="708" height="610" alt="image" src="https://github.com/user-attachments/assets/493b968f-6ee0-4c79-ba05-2d5c37746257" />
 <img width="711" height="614" alt="image" src="https://github.com/user-attachments/assets/7ba777ae-9064-4c84-a216-55e9e5a38c62" />
+
 ## Pedidos 
 <img width="714" height="607" alt="image" src="https://github.com/user-attachments/assets/bbcff80e-d512-4c8e-a9fa-ecbe3a7c9faf" />
 <img width="707" height="604" alt="image" src="https://github.com/user-attachments/assets/e8443601-157f-42e1-a69d-2959cf764681" />
+
 ## Perfil 
 <img width="710" height="606" alt="image" src="https://github.com/user-attachments/assets/54d98138-1d29-4bff-aaaf-2c30c0b289f1" />
 <img width="708" height="609" alt="image" src="https://github.com/user-attachments/assets/0df15a12-b5b0-4654-a1ea-05897f923a9c" />
+
 ## Carrito
 <img width="708" height="603" alt="image" src="https://github.com/user-attachments/assets/9ffb9031-85d2-4d12-9f8b-dc2a43effa7f" />
+
 ## Pago 
 <img width="713" height="606" alt="image" src="https://github.com/user-attachments/assets/d4536996-4761-443c-92d2-7bfcfcb76a0a" />
 <img width="711" height="299" alt="image" src="https://github.com/user-attachments/assets/0ac5f942-8d65-40c0-9945-96ebbd8af1db" />
 <img width="707" height="604" alt="image" src="https://github.com/user-attachments/assets/a85dff2e-c32b-4c74-b810-4caadc5ff595" />
 <img width="709" height="603" alt="image" src="https://github.com/user-attachments/assets/ba7a50e2-4643-4056-b7e6-aa650d86b50b" />
 <img width="714" height="607" alt="image" src="https://github.com/user-attachments/assets/c9d5351f-7fca-4235-a73c-3ab5e55cb329" />
+
 ## Cerrar Sesion
 <img width="710" height="603" alt="image" src="https://github.com/user-attachments/assets/00330aac-f625-4052-b111-c90a72ad2334" />
 
