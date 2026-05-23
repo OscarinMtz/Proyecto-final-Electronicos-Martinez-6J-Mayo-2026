@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203230460010",
+    "project_id": "bdcrudelectronicos-65a0a",
+    "storage_bucket": "bdcrudelectronicos-65a0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203230460010:android:a8cdf24b80e9481cf9f213",
+        "android_client_info": {
+          "package_name": "com.nava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi_AmY_zhIQQI94QGq7ZdDwE2d9qOfwD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
